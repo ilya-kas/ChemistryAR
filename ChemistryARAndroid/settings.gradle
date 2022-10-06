@@ -1,0 +1,11 @@
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "ChemistryAR"
+include ':app'
+
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('..\\ChemistryARUnity\\ExportedApp\\unityLibrary')

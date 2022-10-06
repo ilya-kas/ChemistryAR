@@ -1,0 +1,8 @@
+74f8070ad14642e6bd2226881225f7c9|D:\Projects\Unity\ChemistryAR\ChemistryARUnity\ChemistryAR\Assets\Prefabs\TrackedImages\Cl-1.jpg|0.07
+23b6bde2b04c4933b5fc062e90ccdb46|D:\Projects\Unity\ChemistryAR\ChemistryARUnity\ChemistryAR\Assets\Prefabs\TrackedImages\H-1.jpg|0.07
+e09a229309af4675aa87b22f365cc7ce|D:\Projects\Unity\ChemistryAR\ChemistryARUnity\ChemistryAR\Assets\Prefabs\TrackedImages\H-2.jpg|0.07
+5f51a123fd6e4958bd99c33e30d64a28|D:\Projects\Unity\ChemistryAR\ChemistryARUnity\ChemistryAR\Assets\Prefabs\TrackedImages\O-1.jpg|0.07
+62061a2de6dc433e93a729cb3a70a549|D:\Projects\Unity\ChemistryAR\ChemistryARUnity\ChemistryAR\Assets\Prefabs\TrackedImages\O-2.jpg|0.07
+759e0e5dbe0b429ab56ae1ed68e5c1fb|D:\Projects\Unity\ChemistryAR\ChemistryARUnity\ChemistryAR\Assets\Prefabs\TrackedImages\O-3.jpg|0.07
+dc9d8a77f0b84464be9333763ad2d83c|D:\Projects\Unity\ChemistryAR\ChemistryARUnity\ChemistryAR\Assets\Prefabs\TrackedImages\O-4.jpg|0.07
+e589d79bed21427f8135233f957d1e8f|D:\Projects\Unity\ChemistryAR\ChemistryARUnity\ChemistryAR\Assets\Prefabs\TrackedImages\S-1.jpg|0.07
