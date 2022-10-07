@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+Il2CppOutputProject/
+jniLibs/
+jniStaticLibs/
